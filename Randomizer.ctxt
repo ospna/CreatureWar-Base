@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Randomizer
+comment0.text=\r\n\ Create\ a\ single\ object\ to\ be\ used\ to\ generate\ random\ numbers\ where\ ever\ they\ are\ \r\n\ needed\ throughout\ the\ program,\ such\ as\ calculating\ damage\ and\ stats\ of\ the\ "monsters"\r\n
+comment1.params=
+comment1.target=Randomizer()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Randomizer\r\n
+comment2.params=y
+comment2.target=int\ nextInt(int)
+comment2.text=\r\n\ Create\ a\ random\ object\ that\ can\ be\ called\ and\ passed\ arguemnts\ for\ boundries\r\n\ @param\ y\ An\ int\ value\ to\ represent\ the\ boundries\ of\ the\ random\ number\ to\ generate\r\n
+numComments=3

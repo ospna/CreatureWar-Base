@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Cyberdemon
+comment0.text=\r\n\ Subclass\ of\ Demon.\ These\ cybderdemons\ represent\ enhanced\ demonic\ creatures\ \r\n\ so\ they\ obtain\ better\ stats.\r\n\r\n\ @author\ Giovanny\ Ospina\r\n\ @version\ 12.01.2017\r\n
+comment1.params=
+comment1.target=Cyberdemon()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Cyberdemon\r\n
+numComments=2
