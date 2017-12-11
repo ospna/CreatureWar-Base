@@ -96,4 +96,13 @@ public abstract class Creature
         hp = hp - take;
     }
     
+    /** 
+     * getHP checks the creatures health
+     * @return hp the health
+     */
+    public int getHP()
+    {
+        return hp;
+    }
+    
 }
